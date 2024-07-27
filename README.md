@@ -7,7 +7,7 @@ This repository contains a shell script that allows you to list various AWS reso
 Before using this script, ensure you have the following:
 
 1. AWS CLI installed on your system
-2. AWS IAM account with appropriate permissions (as using root user isn't advisable)
+2. AWS IAM account (as using root user isn't advisable make) with appropriate permissions (if purpose is just to make this script running just give read-only permissions)
 3. AWS Access Key ID and Secret Access Key
 
 #### Configuring AWS CLI:
